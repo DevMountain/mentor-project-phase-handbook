@@ -22,8 +22,9 @@ During this phase of the program, it is important to maintain a routine and help
 
 * 9:00am - 10:00am Mentor-guided Whiteboarding/Interview Practice
 > Whiteboard/Katas are assigned as pre-class content on the LMS, solutions for Mentors can be found there as well.
-* 10:00am - 12:30pm Working on Projects
-* 12:30pm - 4:45pm Working on Projects/Conducting Mock Interviews
+* 10:00am - 12:30pm Students Working on Projects
+* 12:30pm - 4:45pm Students Working on Projects
+> Note: From 2:00 - 4:00pm, one mentor from the project room will leave the classroom to conduct Mock Interviews
 * 4:45pm - 5:00pm Standups
 
 ### Daily White Boarding Instructions
@@ -121,14 +122,14 @@ After that, mentors should announce groups to the class, and then review the gro
 
 ### Mock Interviews
 
-During Group Projects, mentors should be pulling students out for Mock Interviews. Every student should complete a Mock Interview. Mentors can ask other mentors for assistance in completing this process. 
+At the start of Group Projects, Mentors should set up a first come, first served schedule for Mock Interviews that students can sign up for. Students should be able to sign up for a 2:00pm or 3:00pm Mock Interview for the rest of the group project days. Mentors should conduct interviews until all students who wanted an interview have received one. Mentors can ask other mentors for assistance in completing this process if they are available. 
 
 More information on Mock Interviews can be found below.
 
 <details closed>
 	<summary>Mock Interview Information</summary>
 	
-Mock interviews should be broken up into 4 parts: HR questions, Technical questions, whiteboarding, and giving the student time to ask questions. After the mock interview, make sure you provide students feedback on what they did well, and what they could improve on. We've found it works best to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead.
+Mock interviews should be broken up into 4 parts: HR questions, Technical questions, whiteboarding, and giving the student time to ask questions. After the mock interview, make sure you provide students feedback on what they did well, and what they could improve on. We've found it works ideally to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead, but if that's not possible, one mentor will suffice.
 	
 ### HR Questions
 
