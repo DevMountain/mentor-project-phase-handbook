@@ -16,12 +16,12 @@ During this phase of the program, it is important to maintain a routine and help
 	<summary>Daily White Boarding</summary>
 	
 For daily white boarding, mentors should make sure students perform the following steps: 
-- 1. Clarify the Question
-- 2. Function Signature
-- 3. Sample Data and Output
-- 4. Pseudocode
-- 5. Solve
-- 6. Test with Sample Data
+ 1. Clarify the Question
+ 2. Function Signature
+ 3. Sample Data and Output
+ 4. Pseudocode
+ 5. Solve
+ 6. Test with Sample Data
 	
 </details>
 
