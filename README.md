@@ -79,12 +79,12 @@ Remember that students must have a passing Personal Project by Group Project kic
 
 During Group Projects, mentors should be pulling students out for Mock Interviews. Every student should complete a Mock Interview. Mentors can ask other mentors for assistance in completing this process. 
 
-The interview itself will be broken up into 3 parts, the HR questions, Technical questions, and giving the student time to ask questions. After the official interview make sure you have a debriefing on what they did well, and what they could do better on. We've found it works best to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead.
-
 More information on Mock Interviews can be found below.
 
 <details closed>
 	<summary>Mock Interview Information</summary>
+	
+Mock interviews should be broken up into 4 parts: HR questions, Technical questions, whiteboarding, and giving the student time to ask questions. After the mock interview, make sure you provide students feedback on what they did well, and what they could do improve on. We've found it works best to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead.
 	
 ### HR Questions
 
