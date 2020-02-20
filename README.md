@@ -52,9 +52,13 @@ At the end of the day, make sure to give students the following link to a set of
 Link to questions (questions can also be found in the LMS as Pre-Class Content in Unit 10.5 (Tech Interview Prep)): 
 https://docs.google.com/document/d/1T9Y5ih7N4efeBk7tQJJo7vp5yq6otjljOlffuqsdfqs/edit?usp=sharing
 
+### Class Party
+
+Mentors should host the cohort's class party **the day after** personal project presentations. Mentors should reach out to the Campus Manager at the beginning of the week to make sure food is ordered in time. This party is designed to celebrate completion of Personal Projects, and facilitate student connections for Group Projects. 
+
 ## Job Prep Lectures
 	
-After Personal Projects, the next couple days should be lectures by the Outcomes Success team. Mentors should reach out to the Outcomes Director at the beginning of the week to clarify the schedule for these lectures. Outcomes will have assignments that students should work on. Mentors should grade personal projects during this time. Any leftover time after these lectures should be used by students to catch up on missing assignments/competencies to get ready for badging/group projects.
+After Personal Projects, the next couple days should be lectures by the Outcomes Success team. Mentors should reach out to the Outcomes Director at the beginning of the week to clarify the schedule for these lectures. They usually last 1.5 days. Outcomes will have assignments that students should work on. Mentors should grade personal projects during this time. Any leftover time after these lectures should be used by students to catch up on missing assignments/competencies to get ready for badging/group projects.
 
 ### Job Prep II & Technical Interview Preparation Day
 
@@ -68,13 +72,11 @@ There are a couple of formats Mentors have used in the past for this day, and an
 
 ## Group Projects
 
-Students should be allotted ~2.5 weeks for their Group Projects. The current rubric can be found in the LMS just before Unit 11. 
+Students should be allotted ~2.5 weeks for their Group Projects. The current rubric can be found in the LMS just before Unit 11. Remember that students must have a passing Personal Project by Group Project kickoff to be eligible to participate in a Group Project.
 
-**Mentors are expected to review the rubric in its entirety before kicking off Group Projects.**
+On kickoff day, mentors should solicit ideas from the class. Students should then be able to vote on their preference. Using student preferences, mentors should sync up with the Assistant Instructor of the cohort to assign group members to projects. 
 
-On kickoff day, mentors should review the rubric in its entirety with the class. If any questions arise about the rubric, mentors should reach out to their Instructor for clarification.
-
-Remember that students must have a passing Personal Project by Group Project kickoff to be eligible to participate in a Group Project.
+After that, mentors should announce groups to the class, and then review the group project rubric in its entirety with the class. If mentors have any questions about the rubric, they should reach out to their Instructor for clarification.
 
 ### Mock Interviews
 
@@ -112,12 +114,10 @@ Typically we have the HR mentor take the lead on the discussion and start by ask
 
 This should take up a majority of the time with the interview. With these questions we typically based the questions off how well the student had been doing in the course. Give them a few questions they can answer and at least one they can't. This gives them at least a little bit of confidence and it is also good to see how they handle a situation where they don't know the answer. 
 
-##### HTML/CSS
-
-One of the questions we found that works super well is giving the student a layout from a website and ask them how they would approach making that layout and where they would draw boxes and why. and what tags they would use to position things.
+Alternatively, if mentors have not yet assessed a student's verbal competencies, they can replace most of the technical interview questions with the verbal competencies, which can be found here: https://docs.google.com/document/d/1cu94ROldFh-jMt0X-kGLNC7oESPngSVVQCngAZixbDg/edit?usp=sharing
 
 <details><summary>HTML/CSS</summary>
-
+	
 - What is a selector?
 - Describe the box model?
 - Describe how you would make a paper card effect in CSS ( Like the products on Jane.com )?
@@ -127,9 +127,8 @@ One of the questions we found that works super well is giving the student a layo
 - Describe Pseudo selectors in CSS.
 - How could you make a star using CSS shapes only?
 - What is the transform property and how does it work?
+- Another question that works well is giving the student a layout from a website and asking them how they would approach making that layout.
 </details>
-
-##### JavaScript
 
 <details><summary>JavaScript</summary>
 
@@ -148,8 +147,6 @@ One of the questions we found that works super well is giving the student a layo
 - What’s the difference between == and === in JavaScript?
 - What is event bubbling in the DOM?
 </details>
-
-##### React
 
 <details><summary>React</summary>
 
@@ -172,7 +169,7 @@ After the technical questions, give the student a whiteboarding problem. The pro
 
 Below are some sample problems. The list is not definitive, feel free to use another problem.
 
-<details><summary>White Board Problems</summary>
+<details><summary>Sample White Board Problems</summary>
 
 - Write an algorithm that can find prime numbers.
 - Write an algorithm that writes the Fibonacci sequence.
@@ -195,12 +192,3 @@ On Group Project Presentation day, mentors should arrive early and begin setting
 
 Project Presentations should begin around 9:15-9:30. After presenting, students are welcome to go home or remain in class to complete any outstanding assignments/competencies. 
 
-
-
-
-### Mock Interviews
-todd repo
-verbal competencies sheet
-
-Mock interview times.
-Class Party should happen the day after Personal Project Presentations.
