@@ -6,6 +6,7 @@ In this Readme mentors will find instructions on how to manage the project phase
 
 1. [Holiday Flex Dates](#Holiday-Flex-Dates)
 1. [Personal Projects](#Personal-Projects)
+
 	1.[Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
 	1.[Class Party](#Class-Party)
 1. [Job Prep](#Job-Prep)
