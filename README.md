@@ -87,7 +87,7 @@ More information on Mock Interviews can be found below.
 <details closed>
 	<summary>Mock Interview Information</summary>
 	
-Mock interviews should be broken up into 4 parts: HR questions, Technical questions, whiteboarding, and giving the student time to ask questions. After the mock interview, make sure you provide students feedback on what they did well, and what they could do improve on. We've found it works best to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead.
+Mock interviews should be broken up into 4 parts: HR questions, Technical questions, whiteboarding, and giving the student time to ask questions. After the mock interview, make sure you provide students feedback on what they did well, and what they could improve on. We've found it works best to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead.
 	
 ### HR Questions
 
