@@ -5,6 +5,7 @@ In this Readme mentors will find instructions on how to manage the project phase
 ## Quick Links
 
 1. [Daily Overview](#Daily-Overview)
+	1. [Daily White Boarding Instructions](#Daily-White-Boarding-Instructions)
 1. [Holiday Flex Dates](#Holiday-Flex-Dates)
 1. [Personal Projects](#Personal-Projects)
 	1. [Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
