@@ -1,4 +1,4 @@
-# Project Phase Handbook
+# Mentor Project Phase Handbook
 
 In this Readme mentors will find instructions on how to manage the project phase of their cohorts, where they will be working independently with students.
 
