@@ -12,8 +12,23 @@ During this phase of the program, it is important to maintain a routine and help
 * 12:30pm - 4:45pm Working on Projects/Conducting Mock Interviews
 * 4:45pm - 5:00pm Standups
 
+<details open>
+	<summary>Daily White Boarding</summary>
+	
+For daily white boarding, mentors should make sure students perform the following steps: 
+- 1. Clarify the Question
+- 2. Function Signature
+- 3. Sample Data and Output
+- 4. Pseudocode
+- 5. Solve
+- 6. Test with Sample Data
+	
+</details>
+
+
 ## Quick Links
 
+1. [Daily Overview]
 1. [Holiday Flex Dates](#Holiday-Flex-Dates)
 1. [Personal Projects](#Personal-Projects)
 	1. [Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
