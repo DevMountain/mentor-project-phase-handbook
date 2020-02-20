@@ -2,7 +2,17 @@
 
 In this Readme mentors will find instructions on how to manage the project phase of their cohorts, where they will be working independently with students.
 
-## Overview
+## Daily Overview
+
+During this phase of the program, it is important to maintain a routine and help students succeed by keeping them accountable and continuously learning/growing. Mentors should continue to take attendance and inform their instructor of any student attendance issues. Students should break for lunch at 12:30pm, and be expected to return at 1:30pm sharp. Students are expected to be in class during all class hours, and are not permitted to come in late/leave early.
+
+* 9:00am - 10:00am Mentor-guided Whiteboarding/Interview Practice
+> Whiteboard/Katas are assigned as pre-class content on the LMS, solutions for Mentors can be found there as well.
+* 10:00am - 12:30pm Working on Projects
+* 12:30pm - 4:45pm Working on Projects/Conducting Mock Interviews
+* 4:45pm - 5:00pm Standups
+
+## Quick Links
 
 1. [Holiday Flex Dates](#Holiday-Flex-Dates)
 1. [Personal Projects](#Personal-Projects)
@@ -13,16 +23,6 @@ In this Readme mentors will find instructions on how to manage the project phase
 1. [Group Projects](#Group-Projects)
 	1. [Mock Interviews](#Mock-Interviews)
 	1. [Group Project Presentation Day](#Group-Project-Presentation-Day)
-
-## Daily
-
-During this phase of the program, it is important to maintain a routine and help students succeed by keeping them accountable and continuously learning/growing. Mentors should continue to take attendance and inform their instructor of any student attendance issues. Students should break for lunch at 12:30pm, and be expected to return at 1:30pm sharp. Students are expected to be in class during all class hours, and are not permitted to come in late/leave early.
-
-* 9:00am - 10:00am Mentor-guided Whiteboarding/Interview Practice
-> Whiteboard/Katas are assigned as pre-class content on the LMS, solutions for Mentors can be found there as well.
-* 10:00am - 12:30pm Working on Projects
-* 12:30pm - 4:45pm Working on Projects/Conducting Mock Interviews
-* 4:45pm - 5:00pm Standups
 
 ## Holiday Flex Dates
 
