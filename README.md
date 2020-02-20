@@ -54,7 +54,7 @@ https://docs.google.com/document/d/1T9Y5ih7N4efeBk7tQJJo7vp5yq6otjljOlffuqsdfqs/
 
 ### Class Party
 
-Mentors should host the cohort's class party **the day after** personal project presentations. Mentors should reach out to the Campus Manager at the beginning of the week to make sure food is ordered in time. This party is designed to celebrate completion of Personal Projects, and facilitate student connections for Group Projects. 
+Mentors should host the cohort's class party **the day after** personal project presentations. The party should occur after 5:00pm. Mentors should reach out to the Campus Manager at the beginning of the week to make sure food is ordered in time. This party is designed to celebrate completion of Personal Projects, and facilitate student connections for Group Projects. 
 
 ## Job Prep Lectures
 	
