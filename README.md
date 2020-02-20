@@ -1,13 +1,13 @@
 # Mentor Project Phase Handbook
 
-In this Readme mentors will find instructions on how to manage the project phase of their cohorts, where they will be working independently with students.
+In this Readme mentors will find instructions on how to manage the project phase of their cohorts, where they will be working independently with students. test change
 
 ## Overview
 
 1. [Holiday Flex Dates](#Holiday-Flex-Dates)
 1. [Personal Projects](#Personal-Projects)
-	1.[Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
-	1.[Class Party](#Class-Party)
+	1. [Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
+	1. [Class Party](#Class-Party)
 1. [Job Prep](#Job-Prep)
 	1. [Technical Interview Prep Day](#Job-Prep-II--Technical-Interview-Preparation-Day)
 1. [Group Projects](#Group-Projects)
