@@ -6,10 +6,10 @@ In this Readme mentors will find instructions on how to manage the project phase
 
 1. [Holiday Flex Dates](#Holiday-Flex-Dates)
 1. [Personal Projects](#Personal-Projects)
-	1.[Presentations & Paired Learning](#Personal-Project-Presentations-&-Paired-Learning-(Demo-Day))
+	1.[Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
 	1.[Class Party](#Class-Party)
 1. [Job Prep](#Job-Prep)
-	1. [Technical Interview Prep Day](#Job-Prep-II-&-Technical-Interview-Preparation-Day)
+	1. [Technical Interview Prep Day](#Job-Prep-II--Technical-Interview-Preparation-Day)
 1. [Group Projects](#Group-Projects)
 	1. [Mock Interviews](#Mock-Interviews)
 	1. [Group Project Presentation Day](#Group-Project-Presentation-Day)
