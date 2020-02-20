@@ -30,7 +30,7 @@ During this phase of the program, it is important to maintain a routine and help
 	
 Every night, students will be assigned a code wars kata as homework. There will be a mandatory kata, and an optional challenge kata. Solutions are included in the LMS for mentors only. Mentors should use one of these problems, or a very close variation of them, for the white boarding problem in the morning next day. The goal is to emphasize communicating the problem solving process, and not whether the students can actually solve any random problem. Students should send their mentors a link to their codewars account that mentors can use to hold students accountable. 
 
-Additionally, students will be given technical interview questions to research every night. At the start of the white boarding session, mentors should ask the students the technical interview questions they were asked to study. 
+Additionally, students will be given technical interview questions to research every night. At the start of the white boarding session, mentors should ask the students the technical interview questions they were asked to study. After students respond, mentors should pause to provide feedback and correct any misunderstandings for the class. 
 
 During daily white boarding, mentors should make sure students perform the following steps: 
 
