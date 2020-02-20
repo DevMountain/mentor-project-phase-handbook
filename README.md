@@ -2,6 +2,19 @@
 
 In this Readme mentors will find instructions on how to manage the project phase of their cohorts, where they will be working independently with students.
 
+## Quick Links
+
+1. [Daily Overview](#Daily-Overview)
+1. [Holiday Flex Dates](#Holiday-Flex-Dates)
+1. [Personal Projects](#Personal-Projects)
+	1. [Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
+	1. [Class Party](#Class-Party)
+1. [Job Prep](#Job-Prep)
+	1. [Technical Interview Prep Day](#Job-Prep-II--Technical-Interview-Preparation-Day)
+1. [Group Projects](#Group-Projects)
+	1. [Mock Interviews](#Mock-Interviews)
+	1. [Group Project Presentation Day](#Group-Project-Presentation-Day)
+
 ## Daily Overview
 
 During this phase of the program, it is important to maintain a routine and help students succeed by keeping them accountable and continuously learning/growing. Mentors should continue to take attendance and inform their instructor of any student attendance issues. Students should break for lunch at 12:30pm, and be expected to return at 1:30pm sharp. Students are expected to be in class during all class hours, and are not permitted to come in late/leave early.
@@ -17,27 +30,20 @@ During this phase of the program, it is important to maintain a routine and help
 	
 For daily white boarding, mentors should make sure students perform the following steps: 
  1. Clarify the Question
+ 	* Students should beginning by clarifying what they are supposed to solve, and checking which edge cases should be accounted for. 
  2. Function Signature
+ 	* After clarifying the question, students should write out the function signature of the algorithm. A function signature indicates any parameters taken in and their datatypes, and the datatype of the output of the function.
+	Example: ```fn(str) => arr```
  3. Sample Data and Output
+ 	* Students should write out a few sample arguments that cover all needed cases, and what their sample output would be. 
  4. Pseudocode
+	* **This is the most important part of a white boarding interview!** Students should be able to write down the entirety of their problem solving process in plain english, such that any random person could simply follow the instructions to solve the problem. 
  5. Solve
+ 	* After psuedocoding, you should have another student come up to the board and explicitly, literally follow the pseudocode that was written by the preceding student. This will make clear the difference between good/bad pseudocode. 
  6. Test with Sample Data
+ 	* After writing out the solution on the board, copy the same exact syntax into a repl.it to see if it works. 
 	
 </details>
-
-
-## Quick Links
-
-1. [Daily Overview]
-1. [Holiday Flex Dates](#Holiday-Flex-Dates)
-1. [Personal Projects](#Personal-Projects)
-	1. [Presentations & Paired Learning](#Personal-Project-Presentations--Paired-Learning-Demo-Day)
-	1. [Class Party](#Class-Party)
-1. [Job Prep](#Job-Prep)
-	1. [Technical Interview Prep Day](#Job-Prep-II--Technical-Interview-Preparation-Day)
-1. [Group Projects](#Group-Projects)
-	1. [Mock Interviews](#Mock-Interviews)
-	1. [Group Project Presentation Day](#Group-Project-Presentation-Day)
 
 ## Holiday Flex Dates
 
