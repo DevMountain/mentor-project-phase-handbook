@@ -104,11 +104,9 @@ Typically we have the HR mentor take the lead on the discussion and start by ask
 
 ### Technical Questions
 
-This should take up a majority of the time with the interview. With these questions we typically based the questions off how well the student had been doing in the course. Give them a few questions they can answer and at least one they can't. This gives them at least a little bit of confidence and it is also good to see how they handle a situation where they don't know the answer. Pick a few from each section then pick one from the toy problem section. The toy problem should be hard enough for them where they will have to think about it and can't just jump strait into code. The purpose of the white board problem is to see how they think, not if they can solve it.
+This should take up a majority of the time with the interview. With these questions we typically based the questions off how well the student had been doing in the course. Give them a few questions they can answer and at least one they can't. This gives them at least a little bit of confidence and it is also good to see how they handle a situation where they don't know the answer. 
 
-Also this list is not the definitive list, feel free to use what ever.
-
-#### HTML/CSS
+##### HTML/CSS
 
 One of the questions we found that works super well is giving the student a layout from a website and ask them how they would approach making that layout and where they would draw boxes and why. and what tags they would use to position things.
 
@@ -125,7 +123,7 @@ One of the questions we found that works super well is giving the student a layo
 - What is the transform property and how does it work?
 </details>
 
-#### JavaScript
+##### JavaScript
 
 <details><summary>JavaScript</summary>
 
@@ -145,7 +143,7 @@ One of the questions we found that works super well is giving the student a layo
 - What is event bubbling in the DOM?
 </details>
 
-#### React
+##### React
 
 <details><summary>React</summary>
 
@@ -164,7 +162,11 @@ One of the questions we found that works super well is giving the student a layo
 
 #### White Board
 
-<details><summary>White Board</summary>
+After the technical questions, give the student a whiteboarding problem. The problem should be hard enough where they will have to think about it won't be able to just jump straight into code. The purpose of the white board problem is to see how they think, not if they can solve it.
+
+Below are some sample problems. The list is not definitive, feel free to use another problem.
+
+<details><summary>White Board Problems</summary>
 
 - Write an algorithm that can find prime numbers.
 - Write an algorithm that writes the Fibonacci sequence.
