@@ -81,6 +81,11 @@ During Group Projects, mentors should be pulling students out for Mock Interview
 
 The interview itself will be broken up into 3 parts, the HR questions, Technical questions, and giving the student time to ask questions. After the official interview make sure you have a debriefing on what they did well, and what they could do better on. We've found it works best to have 2 mentors in the interview, with one taking the role of HR and the other being the Technical lead.
 
+More information on Mock Interviews can be found below.
+
+<details closed>
+	<summary>Mock Interview Information</summary>
+	
 ### HR Questions
 
 <details><summary>HR</summary>
@@ -180,7 +185,8 @@ At the end of the whiteboarding, ask the students the following questions:
 - Where do you see yourself in the next 2-3 years?
 - What salary are they looking for?
 
-Then, give the student time to ask questions about the company. 
+Then, give the student time to ask questions about the company. After answering the questions, conclude the Mock Interview and give students feedback on their performance. 
+</details>
 
 ### Group Project Presentation Day
 
