@@ -25,10 +25,15 @@ During this phase of the program, it is important to maintain a routine and help
 * 12:30pm - 4:45pm Working on Projects/Conducting Mock Interviews
 * 4:45pm - 5:00pm Standups
 
-<details open>
-	<summary>Daily White Boarding</summary>
+### Daily White Boarding Instructions
 	
-For daily white boarding, mentors should make sure students perform the following steps: 
+Every night, students will be assigned a code wars kata as homework. There will be a mandatory kata, and an optional challenge kata. Solutions are included in the LMS for mentors only. Mentors should use one of these problems, or a very close variation of them, for the white boarding problem in the morning next day. The goal is to emphasize communicating the problem solving process, and not whether the students can actually solve any random problem. 
+
+During daily white boarding, mentors should make sure students perform the following steps: 
+
+<details closed>
+	<summary>White Boarding Steps</summary>
+
  1. Clarify the Question
  	* Students should beginning by clarifying what they are supposed to solve, and checking which edge cases should be accounted for. 
  2. Function Signature
