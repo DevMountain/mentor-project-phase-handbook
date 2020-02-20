@@ -4,7 +4,7 @@ In this Readme mentors will find instructions on how to manage the project phase
 
 ## Daily
 
-During this phase of the program, it is important to maintain a routine and help students succeed by keeping them accountable and continuously learning/growing. Mentors should continue to take attendance and inform their instructor of any student attendance issues. Students should break for lunch at 12:30pm, and be expected to return at 1:30pm sharp. 
+During this phase of the program, it is important to maintain a routine and help students succeed by keeping them accountable and continuously learning/growing. Mentors should continue to take attendance and inform their instructor of any student attendance issues. Students should break for lunch at 12:30pm, and be expected to return at 1:30pm sharp. Students are expected to be in class during all class hours, and are not permitted to come in late/leave early.
 
 * 9:00am - 10:00am Mentor-guided Whiteboarding/Interview Practice
 > Whiteboard/Katas are assigned as pre-class content on the LMS, solutions for Mentors can be found there as well.
