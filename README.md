@@ -82,7 +82,29 @@ Remember that students must complete the following Personal Project Pre-requisit
 	
 On Personal Project Presentation day, mentors should arrive early and begin setting up the lobby for presentations. Mentors should reach out to the Campus Manager beforehand for assistance in setting up for presentations. 
 
-For a list of technologies for paired learning, and detailed instructions on Project Presentations, see below: 
+Project Presentations should begin around 9:15-9:30.
+
+* Personal Project Presentations
+    * Students should be alloted 3 minutes to present their project.
+    * Prizes may be given for the following categories (May vary between campuses)
+        * Best Overall (Most Shippable)
+        * Most Technical
+        * Best Business Solution
+        * Best Presentation
+        * Best UI/UX
+    * The prizes are at your discretion, if it's decided that no one had a good design, or none of the projects satisifed a business solution, you may opt to remove that category. It's important to let the student's know that you may withdraw a category if none of the projects satisfy that field.
+    * The actual prize can vary between campuses. I would recommend reserving a champion shirt for just the winner of best overall (most shippable) and providing a water bottle or some other form of swag for the other winners. You may opt to do a runner up, but it is not required and should generally only be done in large classes.
+    * Mentors from the cohorts not presenting should do the judging.
+
+After presentations, mentors should pair students (groups of 2-3), and assign them a technology to learn. 
+They have until about 3:30 - 4:00 to work together to learn a new technology and build/prepare a small presentation for the rest of the class on that subject. 
+
+At the end of the day, make sure to give students the following link to a set of Interview Questions that they will be expected to be able to answer in the Technical Interview lesson.
+
+Link to questions (questions can also be found in the LMS as Pre-Class Content in Unit 10.5 (Tech Interview Prep)): 
+https://docs.google.com/document/d/1T9Y5ih7N4efeBk7tQJJo7vp5yq6otjljOlffuqsdfqs/edit?usp=sharing
+
+After presentations, move on to paired learning. For a list of technologies for paired learning, see below: 
 
 <details closed>
    <summary>Paired Learning Day</summary>
@@ -93,27 +115,6 @@ For a list of technologies for paired learning, and detailed instructions on Pro
 * Student can stay on task and work with loosely set expectations.
 * Student can work cooperatively.
 * Student can effectively demonstrate learned content
-
-## Resources
-
-## Lesson
-
-** __Personal Project Presentations Should Be Done In The Morning__ **
-* Presentations should last from 9-10 or 10:30 depending on class size, then move on to Demo Day content below.
-    * Students should be alloted 3 minutes to present their project.
-    * Prizes may be given for the following categories (May vary between campuses)
-        * Best Overall (Most Shippable)
-        * Most Technical
-        * Best Business Solution
-        * Best Presentation
-        * Best UI/UX
-    * The prizes are at your discretion, if it's decided that no one had a good design, or none of the projects satisifed a business solution, you may opt to remove that category. It's important to let the student's know that you may withdraw a category if none of the projects satisfy that field.
-    * The actual prize can vary between campuses. I would recommend reserving a champion shirt for just the winner of best overall (most shippable) and providing a water bottle or some other form of swag for the other winners. You may opt to do a runner up, but it is not required and should generally only be done in large classes.
-    * Mentors from the cohorts not presenting will do the judging.
-
-* Note: Items from `flex-content` can be covered in the mornings during the non-core week from 9-10 in lieu of a toy problem and review
-
-* There is no lecture content for this day.
 
 * Put the students in pairs, explain the purpose below, answer any questions, and cut them loose.
 
@@ -181,16 +182,6 @@ Ultra high-performance, professional-grade animation for the modern web.
 HTML5 javascript animation built for professionals, GreenSock is packed with features that make most other engines look like cheap toys. Animate colors, beziers, css properties, arrays, scrolls and lots more. Round values, smoothly reverse() on the fly, use relative values, automatically accommodate getter/setter functions, employ virtually any easing equation, and manage conflicting tweens like a pro. Define callbacks, tween in seconds or frames, build sequences effortlessly (even with overlapping tweens), repeat/yoyo and more.
 
 </details>
-
-Project Presentations should begin around 9:15-9:30.
-
-After presentations, mentors should pair students (groups of 2-3), and assign them a technology to learn. 
-They have until about 3:30 - 4:00 to work together to learn a new technology and build/prepare a small presentation for the rest of the class on that subject. 
-
-At the end of the day, make sure to give students the following link to a set of Interview Questions that they will be expected to be able to answer in the Technical Interview lesson.
-
-Link to questions (questions can also be found in the LMS as Pre-Class Content in Unit 10.5 (Tech Interview Prep)): 
-https://docs.google.com/document/d/1T9Y5ih7N4efeBk7tQJJo7vp5yq6otjljOlffuqsdfqs/edit?usp=sharing
 
 ### Class Party
 
