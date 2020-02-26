@@ -58,7 +58,7 @@ During daily white boarding, mentors should make sure students perform the follo
 
 Some cohorts will have Holiday Flex dates occur during the project phase of the curriculum. These days are to be used by students to complete any Competency work or outstanding Job Prep work, and should not be added to Personal Project/Group Project time unless they have completed any outstanding work first.
 
-There should continue to be Whiteboarding sessions during the morning for these days, and then the students should move to Competencies, Job Prep, catching up on outstanding work, and finally digging into additional resources if they have time to do so. Students who do not have Holiday Flex dates occur during the project phase will be expected to complete competencies and job prep work on their own time or during projects. 
+There should continue to be Whiteboarding sessions during the morning for these days, and then the students should move to Competencies, Job Prep, catching up on outstanding work, and finally digging into additional resources if they have time to do so. Students who do not have Holiday Flex dates occurring during the project phase will be expected to complete competencies and job prep work on their own time or during projects. 
 
 ## Personal Projects
 
