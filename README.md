@@ -37,6 +37,8 @@ During daily white boarding, mentors should make sure students perform the follo
 
 <details closed>
 	<summary>White Boarding Steps</summary>
+	
+* First ask the technical interview questions from the night before, then immediately give feedback and correct any misunderstanding for the class. Then move on to whiteboarding, where students should perform the following steps:
 
  1. Clarify the Question
  	* Students should beginning by clarifying what they are supposed to solve, and checking which edge cases should be accounted for. 
