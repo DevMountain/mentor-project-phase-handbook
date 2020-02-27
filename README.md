@@ -46,7 +46,7 @@ During daily white boarding, mentors should make sure students perform the follo
  	* After clarifying the question, students should write out the function signature of the algorithm. A function signature indicates any parameters taken in and their datatypes, and the datatype of the output of the function.
 	Example: ```fn(str) => arr```
  3. Sample Data and Output
- 	* Students should write out a few sample arguments that cover all needed cases, and what their sample output would be. 
+ 	* Students should write out a few sample arguments that cover all needed cases, and what their sample output should be. 
  4. Pseudocode
 	* **This is the most important part of a white boarding interview!** Students should be able to write down the entirety of their problem solving process in plain english, such that any random person could simply follow the instructions to solve the problem. 
  5. Solve
